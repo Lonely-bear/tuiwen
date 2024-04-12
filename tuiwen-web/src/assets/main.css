@@ -1,0 +1,25 @@
+@import './base.css';
+
+#app {
+  height: 100vh;
+  overflow: hidden;
+  width: 100%;
+}
+
+.el-divider__text {
+  background-color: #F7FAFC !important;
+}
+
+.custom-table-header {
+  color: #000 !important;
+  font-size: 14px !important;
+  background-color: #F2F3F5 !important;
+}
+
+.custom-table-header .cell {
+  font-weight: bold !important;
+}
+
+.el-button {
+  border-radius: 0 !important;
+}
